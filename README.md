@@ -3,7 +3,10 @@
 ## Shortcut Types
 
 ### Entity
-1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv-2025
+1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv, 2025
+
+### Position
+1. Revisiting Zero-Shot Abstractive Summarization in the Era of Large Language Models from the Perspective of Position Bias, NAACL, 2024
 
 ## Benchmarks
 1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv-2025
