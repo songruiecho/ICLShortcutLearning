@@ -18,3 +18,4 @@
 
 ## Studies Utilizing LLMs but not ICL
 1. Rectifying Demonstration Shortcut in In-Context Learning, Coling, 2025. **Abs**: LLM is used for data augmentation and the augmented data is used to train a BERT-like model. 
+2. Causal keyword driven reliable text classification with large language model feedback, IPM, 2025. **Abs**: LLM is used to purify causal keywords and a BERT-like model is trained based on causal keywords to enhance generalization.
