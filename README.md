@@ -2,6 +2,9 @@
 
 ## Shortcut Types
 
+### Vanilla-label Bias
+1. None of the Others: a General Technique to Distinguish Reasoning from Memorization in Multiple-Choice LLM Evaluation Benchmarks, Arxiv 2025
+
 ### Entity
 1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv, 2025
 
@@ -19,3 +22,4 @@
 ## Studies Utilizing LLMs but not ICL
 1. Rectifying Demonstration Shortcut in In-Context Learning, Coling, 2025. **Abs**: LLM is used for data augmentation and the augmented data is used to train a BERT-like model. 
 2. Causal keyword driven reliable text classification with large language model feedback, IPM, 2025. **Abs**: LLM is used to purify causal keywords and a BERT-like model is trained based on causal keywords to enhance generalization.
+3. 
