@@ -14,6 +14,13 @@
 ## Benchmarks
 1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv-2025
 
+## Causes of Shortcut Learning
+
+### Memory
+Several studies have also shed light on the relationship between memorization and model generalization. While they do not explicitly articulate the impact on bias or shortcut learning, they nonetheless offer a valuable and feasible analytical perspective.
+
+1. Think or Remember? Detecting and Directing LLMs Towards Memorization or Generalization, Arxiv-2024. **Abs**: It has been shown that LLMs are capable of memorizing specific patterns that frequently appear in the training data, which can lead to a decline in generalization performance. Interrupting the activation of corresponding memory neurons may help mitigate such undesirable memorization. This phenomenon appears to be related to shortcut formation observed in shortcut learning studies, though further investigation is needed to clarify the connection.
+
 ## Studies Related to Social Bias
 
 1. Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework, AAAI-2025.
