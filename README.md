@@ -1,5 +1,7 @@
 # ICLShortcutLearning
 
+**Description**: This repository serves as a companion to the survey paper [Shortcut Learning in In-Context Learning: A Survey](https://arxiv.org/abs/2411.02018), aiming to address the limitations of a static manuscript in capturing the rapidly evolving body of research. The following is a preliminary and incomplete categorization. We warmly welcome researchers in related areas to share their valuable work with us, which will help us build a more comprehensive and up-to-date survey of the field.
+
 ## Shortcut Types
 
 ### Vanilla-label Bias
