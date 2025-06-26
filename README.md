@@ -5,6 +5,9 @@
 ### Vanilla-label Bias
 1. None of the Others: a General Technique to Distinguish Reasoning from Memorization in Multiple-Choice LLM Evaluation Benchmarks, Arxiv 2025
 
+### Tokens
+1. A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners, ICML-Workshop 2024.
+
 ### Entity
 1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv, 2025
 
@@ -15,6 +18,8 @@
 1. Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark, Arxiv-2025
 
 ## Causes of Shortcut Learning
+
+1. Beyond Surface Structure: A Causal Assessment of LLMs’ Comprehension Ability, Arxiv-2024. **Abs**: It proposes a causal method to investigate the abilities of shallow understanding and deep understanding of LLMs, and finds that the proportion of deep understanding is larger, and as the scale of model parameters increases, the model is more inclined towards deep understanding. 
 
 ### Memory
 Several studies have also shed light on the relationship between memorization and model generalization. While they do not explicitly articulate the impact on bias or shortcut learning, they nonetheless offer a valuable and feasible analytical perspective.
